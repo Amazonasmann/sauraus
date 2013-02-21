@@ -1,0 +1,3 @@
+C:/Users/Alexander/sauraus/cmake output/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alexander/sauraus/cmake output/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Alexander/sauraus/cmake output/CMakeFiles/sauraus.dir
