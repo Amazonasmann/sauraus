@@ -1,0 +1,12 @@
+﻿Der Buildvorgang wurde am 21.02.2013 18:58:38 gestartet.
+     1>Projekt "C:\Users\Goulash\sauraus\cmake output\ZERO_CHECK.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         Aktualisieren des Timestamps von "Win32\Debug\ZERO_CHECK\ZERO_CHECK.unsuccessfulbuild".
+       ComputeCustomBuildOutput:
+         Das Verzeichnis "C:\Users\Alexander\sauraus\cmake output\CMakeFiles\" wird erstellt.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(806,5): error MSB3191: Das Verzeichnis "C:\Users\Alexander\sauraus\cmake output\CMakeFiles\" kann nicht erstellt werden. Der Zugriff auf den Pfad "C:\Users\Alexander\sauraus\cmake output\CMakeFiles\" wurde verweigert.
+     1>Die Erstellung des Projekts "C:\Users\Goulash\sauraus\cmake output\ZERO_CHECK.vcxproj" ist abgeschlossen, build Ziel(e) -- FEHLER.
+
+Fehler beim Erstellen
+
+Verstrichene Zeit 00:00:00.02
