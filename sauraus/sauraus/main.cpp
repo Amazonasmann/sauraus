@@ -1,4 +1,5 @@
 #include <iostream>
+#include <QtGui/QApplication>
 
 using namespace std;
 
