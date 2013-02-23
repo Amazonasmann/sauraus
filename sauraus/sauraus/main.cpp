@@ -10,6 +10,11 @@ void hallo()
 	cout <<"wie kseit";
 }
 
+void prog1()
+{
+	cout<<"Branch prog1";
+}
+
 void main()
 {
 	cout <<"eija de sauraus"<<endl;
