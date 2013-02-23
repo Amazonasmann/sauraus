@@ -8,6 +8,11 @@ void hallo()
 	cout <<"i still dont know how evil he laughed"<<endl;
 }
 
+void prog2()
+{
+	cout<<"Dies kam durch den neuen Branch hinzu";
+}
+
 void main()
 {
 	cout <<"eija de sauraus"<<endl;
