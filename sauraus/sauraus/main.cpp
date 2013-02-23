@@ -15,6 +15,11 @@ void prog1()
 	cout<<"Branch prog1";
 }
 
+void prog2()
+{
+	cout<<"Dies kam durch den neuen Branch hinzu";
+}
+
 void main()
 {
 	cout <<"eija de sauraus"<<endl;
