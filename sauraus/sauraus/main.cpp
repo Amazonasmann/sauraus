@@ -9,6 +9,11 @@ void hallo()
 	cout <<"jojo";
 }
 
+void prog2()
+{
+	cout<<"Dies kam durch den neuen Branch hinzu";
+}
+
 void main()
 {
 	cout <<"eija de sauraus"<<endl;
