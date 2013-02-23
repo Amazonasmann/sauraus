@@ -12,6 +12,10 @@ void prog2()
 {
 	cout<<"Dies kam durch den neuen Branch hinzu";
 }
+void prog22()
+{
+cout<<"PROG22";
+}
 
 void main()
 {
