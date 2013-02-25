@@ -14,6 +14,10 @@ void prog1()
 {
 	cout<<"Branch prog1";
 }
+void prog3()
+{
+
+}
 
 void prog2()
 {
