@@ -37,7 +37,11 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+<<<<<<< HEAD
     <ExecutablePath>C:\Users\Alexander\Downloads\boost_1_53_0\boost_1_53_0;$(ExecutablePath)</ExecutablePath>
+=======
+    <IncludePath>C:\Qt\4.8.4\include;$(IncludePath)</IncludePath>
+>>>>>>> master
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
